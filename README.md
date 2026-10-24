@@ -1,87 +1,47 @@
 # Mission563
 
-Mission563 is an Android daily-missions app designed to help users build focus, discipline and consistency through one short mission at a time.
+**Focused Android Utility**
 
-Instead of overwhelming users with large plans, Mission563 focuses on small, achievable daily actions and gradual progress.
+Mission563 is a focused Android utility developed as part of the TSI Dev Studio portfolio.
 
-## Features
+## What it does
 
-- One daily mission at a time
-- 365 missions
-- Six mission themes
-- Streak tracking
-- Milestones
-- Calendar view
-- Monthly recap
-- Home-screen widget
-- One-line journal
-- Local reminders
-- Custom missions
-- Local progress tracking
-- No account required
-- No ads
-- No analytics trackers
+- Focused Android experience
+- Simple ownership model
+- Lifetime-oriented access model
+- No unnecessary account requirement where practical
 
-## Mission themes
+## Product principles
 
-Mission563 includes missions across six areas:
+- Focused scope
+- Simple ownership
+- Minimal unnecessary complexity
+- Straightforward Android experience
 
-- Physical
-- Mental
-- Social
-- Creative
-- Routine breaks
-- Continuity
+## Public documentation
 
-The goal is to keep daily actions short, realistic and easy to complete.
+| Document | Purpose |
+| --- | --- |
+| [Getting Started](docs/getting-started.md) | Public setup and usage guidance |
+| [Product Guide](docs/product-guide.md) | Public user-facing documentation |
+| [Support](SUPPORT.md) | Support and official contact channels |
+| [Changelog](CHANGELOG.md) | Public product changes |
 
-## Progress tracking
+## Official links
 
-Completed missions are added to the archive.
+- TSI Dev Studio: https://tsidevstudio.com
+- Blog: https://blog.tsidevstudio.com
 
-Users can follow their progress through:
+## About this repository
 
-- Streaks
-- Milestones
-- Calendar history
-- Monthly recaps
-- Journal entries
+This repository is for public product information, documentation, verification links and release-related resources.
 
-The focus is on consistency rather than perfection.
+Unless explicitly stated otherwise, the application source code is not published here.
 
-## Privacy approach
+Internal architecture and implementation details are intentionally excluded from public documentation.
 
-Mission563 is designed around local control.
+## Developer
 
-The app focuses on:
-
-- Local progress storage
-- Local journal entries
-- Local custom missions
-- No account or email requirement
-- No unnecessary cloud dependence
-- No ads
-- No analytics trackers
-- User-controlled data export and deletion
-
-## TSI Dev Studio
-
-Mission563 is developed by TSI Dev Studio, an independent Android developer focused on practical, privacy-conscious and local-first mobile apps.
-
-Official website:
+**TSI Dev Studio**
 
 https://tsidevstudio.com
-
-Mission563 page:
-
-https://tsidevstudio.com/apps/mission563
-
-Other projects include Xsilent, Nullun, MicutVault, AnonyPic, Seabil, HEZX, Annum, Zizly and Zekro.
-
-## Contact
-
-General: contact@tsidevstudio.com
-
-App support: support@tsidevstudio.com
-
-Press & media: press@tsidevstudio.com
